@@ -49,7 +49,7 @@ You can explore my work and contributions below:
 ---
 
 ## 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/harbhagwandhaliwal/))
+- **LinkedIn**: https://www.linkedin.com/in/harbhagwandhaliwal/
 
 ---
 
