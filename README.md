@@ -49,27 +49,11 @@ You can explore my work and contributions below:
 ---
 
 ## 🤝 Connect With Me
-- [LinkedIn](https://linkedin.com/in/harbhagwan-dhaliwal)
-- [Stardev.io Profile](https://stardev.io/developers/HarbhagwanDhaliwal)
+- [LinkedIn](https://www.linkedin.com/in/harbhagwandhaliwal/))
 
 ---
 
-## 💻 Languages and Tools
-### Frontend:
-- **React.js**
-- **Vue.js**
-- **Bootstrap**
-- **Tailwind CSS**
-- **Chart.js**
-
-### Backend:
-- **Node.js**
-- **Express.js**
-- **Redis**
-- **PostgreSQL**
-- **MongoDB**
-
-### Other Tools:
+### Tools:
 - **Docker**
 - **Git**
 - **Linux**
