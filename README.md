@@ -3,6 +3,7 @@
 
 ## 👨‍💻 About Me
 - Passionate about **Python Programming** 🐍 and **Android Development** 📱
+- **Kotlin Expert** for Android app development
 - Skilled in **Kotlin** and **Python** with a strong focus on **Web3, Crypto, and Blockchain** technologies.
 - Currently learning **Solidity** and **Smart Contract Bug Finding**.
 - Developed multiple bots for Web3 projects, including:
@@ -14,8 +15,14 @@
 
 ---
 
+## 📱 Kotlin & Android Projects
+- **Android Apps**: Created several Android applications using Kotlin, focusing on user-friendly interfaces and robust backend integration.
+- **Kotlin Libraries**: Contributed to open-source Kotlin libraries for Android development.
+
+---
+
 ## 🌱 I’m Currently Learning
-- **TypeScript**
+- **Machine Learning in Python**
 - **Solidity**
 
 ---
@@ -67,5 +74,4 @@ You can explore my work and contributions below:
 
 ---
 
-Thank you for visiting my profile! Feel free to connect, collaborate, and share ideas.
-
+Thank you for visiting my profile! Feel free to connect, collaborate, and share ideas. Let's build something incredible with Kotlin and Android!
