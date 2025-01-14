@@ -1,5 +1,5 @@
 # Hi, I'm Harbhagwan Dhaliwal (Manpreet)! 👋
-![Contribution Grid Snake](https://raw.githubusercontent.com/HarbhagwanDhaliwal/HarbhagwanDhaliwal/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarbhagwanDhaliwal&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ## 👨‍💻 About Me
 - Passionate about **Python Programming** 🐍 and **Android Development** 📱
