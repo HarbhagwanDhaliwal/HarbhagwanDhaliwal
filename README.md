@@ -1,6 +1,6 @@
 # Hi, I'm Harbhagwan Dhaliwal (Manpreet)! 👋
-
-![Contribution Graph](https://raw.githubusercontent.com/HarbhagwanDhaliwal/HarbhagwanDhaliwal/output/github-contribution-grid-snake.svg)
+[
+![Contribution Graph](https://raw.githubusercontent.com/HarbhagwanDhaliwal/HarbhagwanDhaliwal/output/github-contribution-grid-snake.svg)](https://github.com/HarbhagwanDhaliwal/YourRepoName)
 
 
 
