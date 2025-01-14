@@ -1,5 +1,6 @@
 # Hi, I'm Harbhagwan Dhaliwal (Manpreet)! 👋
-![Wakatime Stats](https://wakatime.com/badge/user/HarbhagwanDhaliwal.svg)
+![GitHub Metrics](https://metrics.lecoq.io/HarbhagwanDhaliwal)
+
 
 ## 👨‍💻 About Me
 - Passionate about **Python Programming** 🐍 and **Android Development** 📱
