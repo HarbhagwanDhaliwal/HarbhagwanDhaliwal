@@ -1,7 +1,7 @@
 # Hi, I'm Harbhagwan Dhaliwal (Manpreet)! 👋
-[
-![Contribution Graph](https://raw.githubusercontent.com/HarbhagwanDhaliwal/HarbhagwanDhaliwal/output/github-contribution-grid-snake.svg)](https://github.com/HarbhagwanDhaliwal/YourRepoName)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarbhagwanDhaliwal&show_icons=true&theme=radical" alt="Harbhagwan's GitHub Stats" />
+</p>
 
 
 ## 👨‍💻 About Me
