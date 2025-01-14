@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Run the workflow daily at midnight UTC
   workflow_dispatch:
 permissions:
   contents: write
@@ -12,15 +12,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Generate the snake
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: HarbhagwanDhaliwal
-          output: dist/snake.svg
+          outputs: dist/snake.svg
 
+      # Commit & Push the generated snake
       - name: Commit & Push Snake
         uses: EndBug/add-and-commit@v9
         with:
