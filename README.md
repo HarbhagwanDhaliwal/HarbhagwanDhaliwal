@@ -1,8 +1,4 @@
 # Hi, I'm Harbhagwan Dhaliwal (Manpreet)! 👋
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarbhagwanDhaliwal&show_icons=true&theme=radical" alt="Harbhagwan's GitHub Stats" />
-</p>
-
 
 ## 👨‍💻 About Me
 - Passionate about **Python Programming** 🐍 and **Android Development** 📱
