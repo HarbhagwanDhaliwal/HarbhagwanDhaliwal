@@ -1,5 +1,7 @@
 # Hi, I'm Harbhagwan Dhaliwal (Manpreet)! 👋
-![GitHub Metrics](https://metrics.lecoq.io/HarbhagwanDhaliwal)
+
+![Contribution Graph](https://raw.githubusercontent.com/HarbhagwanDhaliwal/HarbhagwanDhaliwal/output/github-contribution-grid-snake.svg)
+
 
 
 ## 👨‍💻 About Me
