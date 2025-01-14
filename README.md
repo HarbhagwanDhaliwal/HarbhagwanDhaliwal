@@ -1,5 +1,5 @@
 # Hi, I'm Harbhagwan Dhaliwal (Manpreet)! 👋
-<a href="https://stardev.io/developers/HarbhagwanDhaliwal"><img alt="Check out HarbhagwanDhaliwal's profile on stardev.io" src="https://stardev.io/developers/HarbhagwanDhaliwal/badge/languages/global.svg" /></a>
+![Contribution Grid Snake](https://raw.githubusercontent.com/HarbhagwanDhaliwal/HarbhagwanDhaliwal/output/github-contribution-grid-snake.svg)
 
 ## 👨‍💻 About Me
 - Passionate about **Python Programming** 🐍 and **Android Development** 📱
